@@ -1,3 +1,7 @@
+use rs_minesweeper::engine::Minesweeper;
+
 fn main() {
-    println!("Hello, world!");
+    let game = Minesweeper::new();
+
+    
 }
